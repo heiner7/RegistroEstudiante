@@ -1,0 +1,30 @@
+C:\Users\Heiner\Documents\Visual Studio 2017\Projects\Registro Estudiante\Registro Estudiante\bin\Debug\Registro Estudiante.exe.config
+C:\Users\Heiner\Documents\Visual Studio 2017\Projects\Registro Estudiante\Registro Estudiante\bin\Debug\Registro Estudiante.exe
+C:\Users\Heiner\Documents\Visual Studio 2017\Projects\Registro Estudiante\Registro Estudiante\bin\Debug\Registro Estudiante.pdb
+C:\Users\Heiner\Documents\Visual Studio 2017\Projects\Registro Estudiante\Registro Estudiante\obj\Debug\Registro Estudiante.csprojResolveAssemblyReference.cache
+C:\Users\Heiner\Documents\Visual Studio 2017\Projects\Registro Estudiante\Registro Estudiante\obj\Debug\Registro_Estudiante.Form1.resources
+C:\Users\Heiner\Documents\Visual Studio 2017\Projects\Registro Estudiante\Registro Estudiante\obj\Debug\Registro_Estudiante.Properties.Resources.resources
+C:\Users\Heiner\Documents\Visual Studio 2017\Projects\Registro Estudiante\Registro Estudiante\obj\Debug\Registro Estudiante.csproj.GenerateResource.Cache
+C:\Users\Heiner\Documents\Visual Studio 2017\Projects\Registro Estudiante\Registro Estudiante\obj\Debug\Registro Estudiante.csproj.CoreCompileInputs.cache
+C:\Users\Heiner\Documents\Visual Studio 2017\Projects\Registro Estudiante\Registro Estudiante\obj\Debug\Registro Estudiante.exe
+C:\Users\Heiner\Documents\Visual Studio 2017\Projects\Registro Estudiante\Registro Estudiante\obj\Debug\Registro Estudiante.pdb
+C:\Users\Heiner\Desktop\Programacion 2\Asignasion 2\Registro Estudiante\Registro Estudiante\bin\Debug\Registro Estudiante.exe.config
+C:\Users\Heiner\Desktop\Programacion 2\Asignasion 2\Registro Estudiante\Registro Estudiante\bin\Debug\Registro Estudiante.exe
+C:\Users\Heiner\Desktop\Programacion 2\Asignasion 2\Registro Estudiante\Registro Estudiante\bin\Debug\Registro Estudiante.pdb
+C:\Users\Heiner\Desktop\Programacion 2\Asignasion 2\Registro Estudiante\Registro Estudiante\obj\Debug\Registro Estudiante.csprojResolveAssemblyReference.cache
+C:\Users\Heiner\Desktop\Programacion 2\Asignasion 2\Registro Estudiante\Registro Estudiante\obj\Debug\Registro_Estudiante.Form1.resources
+C:\Users\Heiner\Desktop\Programacion 2\Asignasion 2\Registro Estudiante\Registro Estudiante\obj\Debug\Registro_Estudiante.Properties.Resources.resources
+C:\Users\Heiner\Desktop\Programacion 2\Asignasion 2\Registro Estudiante\Registro Estudiante\obj\Debug\Registro Estudiante.csproj.GenerateResource.Cache
+C:\Users\Heiner\Desktop\Programacion 2\Asignasion 2\Registro Estudiante\Registro Estudiante\obj\Debug\Registro Estudiante.csproj.CoreCompileInputs.cache
+C:\Users\Heiner\Desktop\Programacion 2\Asignasion 2\Registro Estudiante\Registro Estudiante\obj\Debug\Registro Estudiante.exe
+C:\Users\Heiner\Desktop\Programacion 2\Asignasion 2\Registro Estudiante\Registro Estudiante\obj\Debug\Registro Estudiante.pdb
+G:\Archivos de Carrera\2018\I ciclo 2018\Programacion 2\Asignasion 2. Heiner Alvarez\Registro Estudiante\Registro Estudiante\bin\Debug\Registro Estudiante.exe.config
+G:\Archivos de Carrera\2018\I ciclo 2018\Programacion 2\Asignasion 2. Heiner Alvarez\Registro Estudiante\Registro Estudiante\bin\Debug\Registro Estudiante.exe
+G:\Archivos de Carrera\2018\I ciclo 2018\Programacion 2\Asignasion 2. Heiner Alvarez\Registro Estudiante\Registro Estudiante\bin\Debug\Registro Estudiante.pdb
+G:\Archivos de Carrera\2018\I ciclo 2018\Programacion 2\Asignasion 2. Heiner Alvarez\Registro Estudiante\Registro Estudiante\obj\Debug\Registro Estudiante.csproj.AssemblyReference.cache
+G:\Archivos de Carrera\2018\I ciclo 2018\Programacion 2\Asignasion 2. Heiner Alvarez\Registro Estudiante\Registro Estudiante\obj\Debug\Registro_Estudiante.Form1.resources
+G:\Archivos de Carrera\2018\I ciclo 2018\Programacion 2\Asignasion 2. Heiner Alvarez\Registro Estudiante\Registro Estudiante\obj\Debug\Registro_Estudiante.Properties.Resources.resources
+G:\Archivos de Carrera\2018\I ciclo 2018\Programacion 2\Asignasion 2. Heiner Alvarez\Registro Estudiante\Registro Estudiante\obj\Debug\Registro Estudiante.csproj.GenerateResource.cache
+G:\Archivos de Carrera\2018\I ciclo 2018\Programacion 2\Asignasion 2. Heiner Alvarez\Registro Estudiante\Registro Estudiante\obj\Debug\Registro Estudiante.csproj.CoreCompileInputs.cache
+G:\Archivos de Carrera\2018\I ciclo 2018\Programacion 2\Asignasion 2. Heiner Alvarez\Registro Estudiante\Registro Estudiante\obj\Debug\Registro Estudiante.exe
+G:\Archivos de Carrera\2018\I ciclo 2018\Programacion 2\Asignasion 2. Heiner Alvarez\Registro Estudiante\Registro Estudiante\obj\Debug\Registro Estudiante.pdb
